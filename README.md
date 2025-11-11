@@ -19,10 +19,10 @@ The system ensures security through both local automation (sounding a buzzer and
 
 | Component | Purpose in Project |
 | :--- | :--- |
-| **ESP32-CAM (OV2640)** | [cite_start]Main controller, camera sensor, and Wi-Fi module. |
-| **PIR Motion Sensor** | [cite_start]Input to detect human movement. |
-| **1-Channel Relay Module** | [cite_start]Controls external siren or light devices. |
-| **Active Buzzer & LED** | [cite_start]Provides immediate local audible and visual feedback. |
+| **ESP32-CAM (OV2640)** | Main controller, camera sensor, and Wi-Fi module. |
+| **PIR Motion Sensor** | Input to detect human movement. |
+| **1-Channel Relay Module** | Controls external siren or light devices. |
+| **Active Buzzer & LED** | Provides immediate local audible and visual feedback. |
 | **FTDI Programmer** | Required for initial code upload (programming mode). |
 | **5V 2A Power Adapter** | Essential for reliable power when the camera and Wi-Fi are active. |
 
